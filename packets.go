@@ -1,4 +1,4 @@
-package xacom // import "fknsrs.biz/p/xacom"
+package xacom // import "github.com/nimblic/xacom"
 
 import (
 	"encoding"
